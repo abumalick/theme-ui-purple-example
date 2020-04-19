@@ -1,6 +1,7 @@
 {
   "scripts": {
-    "start": "gatsby develop"
+    "start": "gatsby develop",
+    "build": "gatsby build"
   },
   "dependencies": {
     "gatsby": "^2.20.25",
